@@ -31,7 +31,7 @@ from albumentations import (
 image_size=(545,545)
 batch_size=32
 num_classes=4
-lr=0.1
+lr=0.01
 momentum=0.9
 num_epoch=4
 root="/data/panchen2/Desktop/plant_classify/plant-pathology-2020-fgvc7"
